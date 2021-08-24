@@ -1,0 +1,59 @@
+.main-layout {
+
+    display: flex; 
+ }
+ 
+ .macbook{
+ 
+     width: 550px;
+     height: 450px;
+ }
+ 
+ .left-part {
+ 
+     width: 700px; 
+     margin-right: 100px;
+     margin-left: 30px;
+ }
+ .button-memory {
+     background-color: whitesmoke;
+     border: 1px solid wheat;
+     border-radius: 8px;
+     padding: 10px 5px;
+     cursor: pointer;
+ }
+ .storage-button{
+ 
+     background-color: whitesmoke;
+     border: 1px solid wheat;
+     border-radius: 8px;
+     padding: 10px 5px;
+     cursor: pointer;
+ 
+ }
+ 
+ .button-delivery{
+     background-color: whitesmoke;
+     border: 1px solid wheat;
+     border-radius: 8px;
+     padding: 10px 5px;
+     cursor: pointer;
+ 
+ }
+ .calculation {
+ 
+     display: flex;
+     
+ }
+ .amount{
+ 
+     margin-left: 35px;
+ }
+ .apply-button {
+ background-color :firebrick ;
+     border: 1px solid wheat;
+     border-radius: 8px;
+     padding: 10px 5px;
+     cursor: pointer;
+ 
+ }
